@@ -21,7 +21,8 @@ class MagnitudeVectors():
         #fasttext = Magnitude(MagnitudeUtils.download_model('fasttext/medium/wiki-news-300d-1M-subword',
         #                                                   download_dir=os.path.join(base_dir, 'magnitude')), #case_insensitive=True)
         #self.vectors = Magnitude(base_dir + '/magnitude/glove_medium_glove.6B.300d.magnitude')
-        self.vectors = Magnitude(base_dir + '/magnitude/glove.840B.300d.magnitude')
+        #self.vectors = Magnitude(base_dir + '/magnitude/glove.840B.300d.magnitude')
+        self.vectors = Magnitude(base_dir + '/magnitude/glove.6B.100d.magnitude')
 
     def load_vectors(self):
         return self.vectors
