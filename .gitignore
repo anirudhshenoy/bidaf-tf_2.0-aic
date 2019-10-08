@@ -1,0 +1,4 @@
+*.magnitude
+.ipynb_checkpoints/
+layers/.ipynb_checkpoints/
+layers/__pycache__
