@@ -1,0 +1,3 @@
+epoch,loss,span-begin-output_accuracy,span-begin-output_loss,span-end-output_accuracy,span-end-output_loss,val_loss,val_span-begin-output_accuracy,val_span-begin-output_loss,val_span-end-output_accuracy,val_span-end-output_loss
+0,10.9223329755995,0.0,5.5112667,0.11111111,5.4115324,10.948972702026367,0.0,5.5161614,0.0,5.432812
+1,11.01785553826226,0.22222222,5.5019455,0.0,5.497046,10.928016662597656,0.0,5.5020895,0.0,5.425927
