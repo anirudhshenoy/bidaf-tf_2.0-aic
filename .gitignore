@@ -4,4 +4,4 @@ layers/.ipynb_checkpoints/
 layers/__pycache__
 scripts/.ipynb_checkpoints/
 scripts/__pycache__
-
+client_secrets.json
